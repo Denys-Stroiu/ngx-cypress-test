@@ -1,0 +1,15 @@
+{
+    "fullNameInputField": {
+        "notValidData": ["Qa", ""], 
+        "errorMessage": "Full name should contains from 4 to 50 characters"
+    },
+    "emailAddressInputField": {
+        "notValidData": ["Qa", ""], 
+        "errorMessage": "Email should be the real one!"
+    },
+    "passwordInputField": {
+        "notValidData": ["123", ""], 
+        "errorMessage": "Password should contain from 4 to 50 characters"
+    }
+}
+
