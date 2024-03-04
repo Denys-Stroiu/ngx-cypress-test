@@ -17,4 +17,4 @@ services:
     #     rebuild required).
     volumes:
       - ./cypress:/e2e-tests/cypress
-      - ./cypress.config.js:/e2e-tests/cypress.config.js
+      - ./cypress.config.ts:/e2e-tests/cypress.config.ts
